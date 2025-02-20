@@ -73,7 +73,7 @@ if ($coke['sett_toda'] == 0) {
                   <div id="div-settings-toda-table">
                     <button id="btn-settings-toda-create" class="btn btn-primary float-right">Add TODA</button>
                     <table class="table table-hover table-bordered text-nowrap m-0" id="settingstodatable" width="100%">
-                      <h1>carlos</h1>
+                      <h1>carlo</h1>
                       <thead>
                         <tr>
                           <th>Action</th>
