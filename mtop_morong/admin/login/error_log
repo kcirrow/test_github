@@ -1,0 +1,31 @@
+[07-Jul-2022 05:36:17 UTC] PHP Fatal error:  Uncaught Error: Class 'myclass' not found in /home/egovcarmona/public_html/mtop_carmona/admin/login/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/egovcarmona/public_html/mtop_carmona/admin/login/index.php on line 6
+[11-Jul-2022 05:18:48 UTC] PHP Warning:  session_start(): open(&quot;your home directory path&quot;/cgi-bin/tmp/sess_0c7f3e5affce644985f501a92e9e50d2, O_RDWR) failed: No such file or directory (2) in /home/egovcarmona/public_html/mtop_carmona/config/class.php on line 3
+[11-Jul-2022 05:18:48 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: &quot;your home directory path&quot;/cgi-bin/tmp) in /home/egovcarmona/public_html/mtop_carmona/config/class.php on line 3
+[11-Jul-2022 05:18:52 UTC] PHP Warning:  session_start(): open(&quot;your home directory path&quot;/cgi-bin/tmp/sess_0c7f3e5affce644985f501a92e9e50d2, O_RDWR) failed: No such file or directory (2) in /home/egovcarmona/public_html/mtop_carmona/config/class.php on line 3
+[11-Jul-2022 05:18:52 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: &quot;your home directory path&quot;/cgi-bin/tmp) in /home/egovcarmona/public_html/mtop_carmona/config/class.php on line 3
+[11-Jul-2022 05:19:31 UTC] PHP Warning:  session_start(): open(&quot;your home directory path&quot;/cgi-bin/tmp/sess_0c7f3e5affce644985f501a92e9e50d2, O_RDWR) failed: No such file or directory (2) in /home/egovcarmona/public_html/mtop_carmona/config/class.php on line 3
+[11-Jul-2022 05:19:31 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: &quot;your home directory path&quot;/cgi-bin/tmp) in /home/egovcarmona/public_html/mtop_carmona/config/class.php on line 3
+[11-Jul-2022 05:19:47 UTC] PHP Warning:  session_start(): open(&quot;your home directory path&quot;/cgi-bin/tmp/sess_0c7f3e5affce644985f501a92e9e50d2, O_RDWR) failed: No such file or directory (2) in /home/egovcarmona/public_html/mtop_carmona/config/class.php on line 3
+[11-Jul-2022 05:19:47 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: &quot;your home directory path&quot;/cgi-bin/tmp) in /home/egovcarmona/public_html/mtop_carmona/config/class.php on line 3
+[11-Jul-2022 05:22:16 UTC] PHP Warning:  session_start(): open(&quot;your home directory path&quot;/cgi-bin/tmp/sess_0c7f3e5affce644985f501a92e9e50d2, O_RDWR) failed: No such file or directory (2) in /home/egovcarmona/public_html/mtop_carmona/config/class.php on line 3
+[11-Jul-2022 05:22:16 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: &quot;your home directory path&quot;/cgi-bin/tmp) in /home/egovcarmona/public_html/mtop_carmona/config/class.php on line 3
+[11-Jul-2022 05:23:02 UTC] PHP Warning:  session_start(): open(&quot;your home directory path&quot;/cgi-bin/tmp/sess_0c7f3e5affce644985f501a92e9e50d2, O_RDWR) failed: No such file or directory (2) in /home/egovcarmona/public_html/mtop_carmona/config/class.php on line 3
+[11-Jul-2022 05:23:02 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: &quot;your home directory path&quot;/cgi-bin/tmp) in /home/egovcarmona/public_html/mtop_carmona/config/class.php on line 3
+[11-Jul-2022 05:31:00 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/egovcarmona/public_html/mtop_carmona/admin/login/index.php on line 9
+[11-Jul-2022 05:31:12 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/egovcarmona/public_html/mtop_carmona/admin/login/index.php on line 9
+[11-Jul-2022 05:33:19 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/egovcarmona/public_html/mtop_carmona/admin/login/index.php on line 9
+[11-Jul-2022 05:40:56 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/egovcarmona/public_html/mtop_carmona/admin/login/index.php on line 9
+[11-Jul-2022 05:41:26 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/egovcarmona/public_html/mtop_carmona/admin/login/index.php on line 9
+[11-Jul-2022 05:52:38 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/egovcarmona/public_html/mtop_carmona/admin/login/index.php on line 9
+[11-Jul-2022 05:55:15 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/egovcarmona/public_html/mtop_carmona/admin/login/index.php on line 9
+[11-Jul-2022 05:58:29 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/egovcarmona/public_html/mtop_carmona/admin/login/index.php on line 9
+[11-Jul-2022 05:58:46 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/egovcarmona/public_html/mtop_carmona/admin/login/index.php on line 9
+[11-Jul-2022 05:58:53 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/egovcarmona/public_html/mtop_carmona/admin/login/index.php on line 9
+[14-Jul-2022 02:45:28 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) or const (T_CONST) in /home/egovcarmona/public_html/mtop_carmona/config/class.php on line 2305
+[14-Jul-2022 02:51:06 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) or const (T_CONST) in /home/egovcarmona/public_html/mtop_carmona/config/class.php on line 2305
+[11-Aug-2022 09:03:04 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in /home/egovcarmona/public_html/mtop_carmona/config/class.php on line 145
+[11-Aug-2022 12:05:36 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in /home/egovcarmona/public_html/mtop_carmona/config/class.php on line 145
+[11-Aug-2022 12:06:02 UTC] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST) in /home/egovcarmona/public_html/mtop_carmona/config/class.php on line 145
